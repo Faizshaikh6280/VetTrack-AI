@@ -25,12 +25,9 @@ Jinja2==3.1.6
 MarkupSafe==3.0.2
 pillow==11.3.0
 protobuf==6.32.0
-pydantic==2.11.7
-pydantic_core==2.33.2
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
 pytz==2025.2
-PyYAML==6.0.2
 reportlab==4.4.3
 requests==2.32.5
 requests-toolbelt==1.0.0
