@@ -23,9 +23,6 @@ idna==3.10
 itsdangerous==2.2.0
 Jinja2==3.1.6
 MarkupSafe==3.0.2
-numpy==2.3.2
-pandas==2.3.2
-pandas-stubs==2.3.0.250703
 pillow==11.3.0
 protobuf==6.32.0
 pydantic==2.11.7
